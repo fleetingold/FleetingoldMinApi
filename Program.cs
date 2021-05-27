@@ -10,6 +10,6 @@ if (app.Environment.IsDevelopment())
     app.UseDeveloperExceptionPage();
 }
 
-app.MapGet("/", (Func<string>)(() => "Hello World!"));
+app.MapGet("/", (Func<string>)(() => "Hello .NET 6 World!"));
 
 await app.RunAsync();

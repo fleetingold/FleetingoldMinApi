@@ -19,3 +19,4 @@ C:\Users\Administrator\source\repos\MinApi\obj\Debug\net6.0\MinApi.dll
 C:\Users\Administrator\source\repos\MinApi\obj\Debug\net6.0\ref\MinApi.dll
 C:\Users\Administrator\source\repos\MinApi\obj\Debug\net6.0\MinApi.pdb
 C:\Users\Administrator\source\repos\MinApi\obj\Debug\net6.0\MinApi.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\MinApi\bin\Debug\net6.0\global.json
